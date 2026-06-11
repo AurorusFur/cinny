@@ -83,7 +83,7 @@
     "ua-parser-js": "^1.0.41"
   },
   "devDependencies": {
-    "@element-hq/element-call-embedded": "0.16.3",
+    "@element-hq/element-call-embedded": "0.19.4",
     "@esbuild-plugins/node-globals-polyfill": "^0.2.3",
     "@eslint/compat": "2.0.2",
     "@eslint/js": "9.39.3",
